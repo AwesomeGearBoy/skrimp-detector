@@ -1,0 +1,64 @@
+body {
+    background: rgb(64, 107, 170);
+}
+
+h1 {
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px rgb(188, 212, 226);
+    color: rgb(22, 22, 22);
+}
+
+p {
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(22, 22, 22)
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 350px;
+    width: auto;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 4px;
+}
+
+.yes {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: none;
+    border-color: rgb(13, 63, 0);
+    border-style: double;
+    border-radius: 10px;
+    background-color: rgba(0, 173, 58, 0.425);
+    padding: 10px;
+    margin: 4px;
+    color: rgb(13, 63, 0);
+}
+
+.no {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: none;
+    border-color: rgb(63, 0, 0);
+    border-style: double;
+    border-radius: 10px;
+    background-color: rgba(173, 0, 0, 0.425);
+    padding: 10px;
+    margin: 4px;
+    color: rgb(63, 0, 0);
+}
+
+.navcenter {
+    text-align: center;
+}
